@@ -6,9 +6,7 @@ class Solution:
             if list1[i] in list2:
                 myDict[list1[i]] = i
                 j = list2.index(list1[i])
-                myDict[list1[i]] += j
-                
-                
+                myDict[list1[i]] += j         
         min_value = min(myDict.values())
         for i ,j in myDict.items():
             if j == min_value:

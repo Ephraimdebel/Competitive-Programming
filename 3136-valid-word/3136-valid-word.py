@@ -1,25 +1,17 @@
 class Solution:
     def isValid(self, word: str) -> bool:
-        vowel = "aeiouAEIOU"
-        newv = 0
-        count = 0
-        if len(word) < 3:
+        vowel = set("aeiouAEIOU")
+        vowel_count = 0
+        consonant_count = 0
+
+        if len(word) < 3 or not word.isalnum():
             return False
-        if not word.isalnum():
-            return False
-        for k in word:
-            if k in vowel:
-                newv+=1
-        if newv == 0:
-            return False
-        for w in word:
-            if w not in vowel and w.isalpha():
-                count+=1
-        if count == 0:
-            return False
-        return True
-            
-            
-                
-                
-        
+
+        for char in word:
+            if char.isalpha():
+                if char in vowel:
+                    vowel_count += 1
+                else:
+                    consonant_count += 1
+
+        return vowel_count > 0 and consonant_count > 0

@@ -14,12 +14,10 @@ class Solution:
             mid = (left + right) // 2
             if nums[mid] == target:
                 start = end = mid
-
-                # Find the lower bound of the range
                 while start > 0 and nums[start - 1] == target:
                     start -= 1
 
-                # Find the upper bound of the range
+             
                 while end < len(nums) - 1 and nums[end + 1] == target:
                     end += 1
 

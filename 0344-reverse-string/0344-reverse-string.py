@@ -3,9 +3,6 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        length = len(s)
-        for i in range(0,length):
-            s.insert(i,s.pop())
-        
+        return s.reverse()
 
         

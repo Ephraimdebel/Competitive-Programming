@@ -3,15 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(len(nums)):
-            is_sorted = True
-            for j in range(1,len(nums)):
-                if nums[j-1] > nums[j]:
-                    nums[j-1],nums[j] = nums[j],nums[j-1]
-                    is_sorted = False
-            if is_sorted:
-                break
-        
+        res = [0,0,0]
+        for i in nums:
+            res[i]+=1
+        ans = []
+        k = 0
+        for i in range(len(res)):
+            while res[i] >0:
+                nums[k] = i
+                k+=1
+                res[i]-=1
+
+            
 
 
         

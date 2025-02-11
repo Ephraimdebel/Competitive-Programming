@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [2048-build-array-from-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->

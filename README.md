@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
 |  |
 | ------- |

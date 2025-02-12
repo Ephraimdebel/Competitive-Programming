@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
@@ -86,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Search
 |  |
 | ------- |

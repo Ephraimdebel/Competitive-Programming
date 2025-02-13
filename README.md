@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0275-h-index-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0283-move-zeroes) |

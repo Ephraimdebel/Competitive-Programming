@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
+| [1028-interval-list-intersections](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
+| [1028-interval-list-intersections](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->

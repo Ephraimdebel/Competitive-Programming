@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2465-shifting-letters-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2465-shifting-letters-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1028-interval-list-intersections) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->

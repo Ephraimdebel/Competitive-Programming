@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

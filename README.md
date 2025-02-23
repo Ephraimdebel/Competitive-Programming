@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |

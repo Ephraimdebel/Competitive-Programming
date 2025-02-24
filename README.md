@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -190,8 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2465-shifting-letters-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |

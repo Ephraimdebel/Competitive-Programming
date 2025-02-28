@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 ## Design

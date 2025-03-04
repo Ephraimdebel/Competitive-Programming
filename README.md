@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2465-shifting-letters-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [3055-maximum-odd-binary-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3055-maximum-odd-binary-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3055-maximum-odd-binary-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 ## Game Theory
 |  |
 | ------- |

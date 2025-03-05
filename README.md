@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1720-crawler-log-folder) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

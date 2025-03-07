@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0016-3sum-closest) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0275-h-index-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |

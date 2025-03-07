@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2465-shifting-letters-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |

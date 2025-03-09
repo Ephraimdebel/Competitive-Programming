@@ -1,21 +1,18 @@
 class Solution:
     def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
-        
+
         n = len(deck)
         res = [0]*n
-
-        skip = False
-        index_in_deck = 0
-        index_in_result = 0
+        index_deck=0
+        inde_res = 0
+        q = deque(range(n))
         deck.sort()
-
-        while index_in_deck < n:
-            if res[index_in_result] == 0:
-
-                if not skip:
-                    res[index_in_result] = deck[index_in_deck]
-                    index_in_deck += 1
-                skip = not skip
-
-            index_in_result = (index_in_result+1)%n
+        while index_deck < n:
+            if q:
+                t = q.popleft()
+                res[t] = deck[index_deck]
+                index_deck+=1
+            if q:
+                r = q.popleft()
+                q.append(r)
         return res

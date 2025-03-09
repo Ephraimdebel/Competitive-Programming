@@ -4,18 +4,14 @@ class DataStream:
         self.k = k 
         self.value = value
         self.deq = deque()
-        self.count = 0
     def consec(self, num: int) -> bool:
         if num == self.value:
             self.deq.append(num)
-            self.count+=1
         else:
-            self.count = 0
-        if self.count > self.k:
-            t = self.deq.popleft()
-            if t == self.value:
-                self.count-=1
-        if self.count == self.k:
+            self.deq = deque()
+        if len(self.deq) > self.k:
+            self.deq.popleft()
+        if len(self.deq) == self.k:
             return True
         else:
             return False

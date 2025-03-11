@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |

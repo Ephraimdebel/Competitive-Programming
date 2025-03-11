@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

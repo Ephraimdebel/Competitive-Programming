@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1720-crawler-log-folder) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0394-decode-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack

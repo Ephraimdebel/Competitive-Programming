@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

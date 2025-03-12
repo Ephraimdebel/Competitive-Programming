@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0886-score-of-parentheses) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |

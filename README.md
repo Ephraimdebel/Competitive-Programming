@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0394-decode-string) |
@@ -338,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3483-alternating-groups-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3483-alternating-groups-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |

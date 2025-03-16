@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0567-permutation-in-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Line Sweep
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |

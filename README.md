@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Line Sweep

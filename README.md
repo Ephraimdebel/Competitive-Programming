@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1009-pancake-sorting) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0617-merge-two-binary-trees) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0617-merge-two-binary-trees) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/0617-merge-two-binary-trees) |
+| [1285-balance-a-binary-search-tree](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -408,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Ephraimdebel/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
